@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="overlay_background_color">#99FFFFFF</color>
+    <color name="dialog_background_color">#800E0E0E</color>
+    <color name="loader_background_color">#16a090</color>
+    <color name="colorPrimary">#ffffff</color>
+    <color name="colorPrimaryDark">#343434</color>
+    <color name="colorAccent">#909090</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#696969</color>
+    <color name="light_gray">#296e6e6e</color>
+    <color name="text_gray">#a3a3a3</color>
+    <color name="line_gray">#e7e9eb</color>
+
+    <color name="mainBackground">#ffffff</color>
+    <color name="gray_txt">#696969</color>
+    <color name="light_gray_txt">#acacac</color>
+    <color name="sub_titles_light_gray_txt">#acacac</color>
+
+    <color name="middleLayerBackground">#f9f9f9</color>
+    <color name="buttonFillColor">#f4f4f4</color>
+    <color name="buttonBgFillColor">#696969</color>
+    <color name="greyStrokeColor">#696969</color>
+    <color name="light_gray_line">#f4f4f4</color>
+
+
+</resources>
